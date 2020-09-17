@@ -59,6 +59,7 @@ a
 a:hover
 {
     background:#565c73 ;
+    color: red;
    
 
 
@@ -146,4 +147,3 @@ button {
     padding: 10px;
     border-radius: 5px;
 } */
- 
