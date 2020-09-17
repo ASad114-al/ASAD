@@ -123,7 +123,7 @@ section li:nth-of-type(4):hover
 }
 
 
-/* footer  button{
+footer  button{
   border-bottom: 1px solid #cccccc; 
     text-align: center;
     font-family: 'Cinzel', serif;
@@ -131,19 +131,20 @@ section li:nth-of-type(4):hover
 }  */
 
 
-/* 
-button:hover {
+
+/* button:hover {
     text-decoration: none;
     background-color: grey;
     color: white;
 }
 
 
-button {
+ button {
     margin-top: 240px;
     margin-left:460px;
     border: 1px solid white;
     background-color:  rgba(255, 255, 255, 0.4);
     padding: 10px;
     border-radius: 5px;
-} */
+ 
+}  */ 
