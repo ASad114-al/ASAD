@@ -1,0 +1,149 @@
+
+/* font-family: 'Roboto', sans-serif; */
+body
+{
+    background: url(https://drive.google.com/thumbnail?id=1FzpRo05bNoLpwj_5_NBZ5AuyZjYWOjM-&authuser=0&sz=w1920-h1120)center /cover no-repeat;
+
+        height: 80vh;
+        width: 95vw;
+        color:#CDD4DE;
+        text-align: center
+
+        
+    
+
+}
+
+
+h1
+{
+    color:#565c73 ;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: .5vh;
+
+}
+h2{
+
+    font-size: 14rem;
+    margin: 30vh 0 5vh;
+}
+
+h3
+{
+    font-size: 4rem;
+    margin-bottom:  0;
+
+}
+h4
+
+{
+    margin-top: 1vh;
+    margin-bottom: 25vh;
+}
+a
+{
+    text-decoration: none;
+    color: #CDD4DE;
+    text-transform: uppercase;
+    border:1px solid  #CDD4DE;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    margin-top: 5vh;
+
+   
+
+}
+
+a:hover
+{
+    background:#565c73 ;
+   
+
+
+/* 
+header h1
+{
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+}
+
+ul
+{
+    list-style: none;
+    text-align: center;
+}
+
+section
+{
+    margin: 200px 400px;
+    text-emphasis-position: center
+    ;
+    
+}
+
+section li:nth-of-type(1)
+{
+    font-size: 200px;
+    font-weight: 10px;
+    font-family: 'Londrina Outline', cursive;
+     color: rgba(0, 0, 0, 0.3);
+}
+
+section li:nth-of-type(2)
+
+{
+    font-size: 90px;
+    font-weight: 10px;
+    font-family: 'Londrina Outline', cursive;
+     color: rgba(0, 0, 0, 0.3);
+}
+section li:nth-of-type(3)
+
+{
+    font-size: 20px;
+    font-weight: 10px;
+    font-family: 'Londrina Outline', cursive;
+     color: rgba(0, 0, 0, 0.3);
+     
+}
+
+section li:nth-of-type(4):hover
+
+{
+    font-size: 90px;
+    font-weight: 10px;
+    font-family: 'Londrina Outline', cursive;
+       color: rgba(0, 0, 0, 0.3);
+    
+}
+
+
+/* footer  button{
+  border-bottom: 1px solid #cccccc; 
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    margin: 80px;
+}  */
+
+
+/* 
+button:hover {
+    text-decoration: none;
+    background-color: grey;
+    color: white;
+}
+
+
+button {
+    margin-top: 240px;
+    margin-left:460px;
+    border: 1px solid white;
+    background-color:  rgba(255, 255, 255, 0.4);
+    padding: 10px;
+    border-radius: 5px;
+} */
+ 
